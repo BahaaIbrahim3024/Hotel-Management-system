@@ -1,0 +1,7 @@
+.root {
+    -fx-background-image: url("/Styles/cover.jpg");
+}
+.button{
+    -fx-background-color: #cc0000;
+      -fx-color:bold;
+}
