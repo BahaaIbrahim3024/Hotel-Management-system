@@ -1,2 +1,3 @@
 # Hotel-Management-system
-Desktop app using JavaFX 
+Desktop app Operate Basic CRUD Operations 
+Using Java, JavaFX, CSS, MySQL
